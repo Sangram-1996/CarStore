@@ -1,1 +1,1 @@
-# CarStore
+# CarStore application
